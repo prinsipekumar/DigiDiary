@@ -8,7 +8,7 @@ The goal is to provide a simple yet powerful platform for personal journaling, w
 
 ---
 
-**Live Demo**: [https://digidiary.onrender.com](https://digidiary.onrender.com)
+**Live Demo**: [https://digidiary-iia5.onrender.com](https://digidiary-iia5.onrender.com)
 
 ---
 
