@@ -73,11 +73,12 @@ To run the project locally:
 ```bash
 git clone https://github.com/prinsipekumar/DigiDiary.git
 cd DigiDiary
+npm install
 ```
 
 2. **Configure Environment Variables**
 
-Create `.env` file in `backend`. Include:
+Create `.env` file in the root folder. Include:
 
 - PORT=your-port
 - MONGO_URI=your-mongodb-connection-string
@@ -97,8 +98,7 @@ npm run dev
 ### backend
 
 ```bash
-cd ../backend
-npm install
+cd backend
 npm run dev
 ```
 
